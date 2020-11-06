@@ -1,7 +1,7 @@
 
-<!-- wp:image {"align":"center","id":617,"width":329,"height":270,"sizeSlug":"large"} -->
+<!-- wp:image {"align":"center","id":617,"width":329,"height":270,"sizeSlug":"large"} 
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://vedantdave117com.files.wordpress.com/2019/12/fraud-detection-and-prevention-market-1.png?w=702" alt="" class="wp-image-617" width="329" height="270"/><figcaption>Security is Main Concern in Trustful Business</figcaption></figure></div>
-<!-- /wp:image -->
+<!-- /wp:image --> -->
 
 <!-- wp:heading {"level":3} -->
 <h3><strong>Banking Financial Fraudulent Transactions analysis ( Kaggle dataset)</strong>  </h3>
